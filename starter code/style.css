@@ -1,0 +1,45 @@
+.nav-logo {
+    width: 40px;
+}
+#navbarNav{
+    display:flex;
+    justify-content:end;
+}
+
+
+
+
+.main-container{
+    background-color:red;
+}
+
+
+.intro-vid{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:74.375vw;
+    height:62.5vh;
+    
+}
+
+.video{
+    width:20vw;
+    height:40vh;
+    border:2px black solid;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10vh;
+	background-color: black;
+}
+
+
+/*
+.intro-video-section{
+    width:74.375vw;
+    background-color:blue;
+    margin-left:auto;
+    margin-right:auto;
+    height:62.5vh;
+}*/
